@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    background-color: #121512;
+    padding: 10px;
+  }
+  
+  header a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  
+  footer {
+    text-align: center;
+    background-color: #121512;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  div {
+    padding: 20px;
+  }
+  
+  main {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+
+
+  
+  .not-found {
+    text-align: center;
+    font-size: 2em;
+    color: #FF6347;
+  }
+  
+ 
